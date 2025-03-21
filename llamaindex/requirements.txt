@@ -1,0 +1,9 @@
+llama-index
+llama-index-core
+llama-index-agent-openai
+llama-index-llms-openai
+llama-index-tools-mcp
+llama-index-tools-openapi
+llama-index-tools-requests
+requests
+jsonschema
